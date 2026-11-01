@@ -353,7 +353,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     com.google.android.maps \
     com.verizon.hardware.telephony.srlte \
-    KernelAdiutor \
     mcamera
 
 PRODUCT_COPY_FILES += \
