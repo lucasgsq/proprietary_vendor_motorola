@@ -354,7 +354,6 @@ PRODUCT_PACKAGES += \
     com.google.android.maps \
     com.verizon.hardware.telephony.srlte \
     KernelAdiutor \
-    TurboToast \
     mcamera
 
 PRODUCT_COPY_FILES += \
