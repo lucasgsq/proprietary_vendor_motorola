@@ -1,0 +1,24 @@
+[
+  {
+    "package": "com.motorola.camera2",
+    "versionCode": 470304150,
+    "size": 111832307,
+    "sha256": "1d52096ab9c1a92535fddba72a4695aad888eaa0eedc9c712cee03b66ccf26e6",
+    "gzip": true,
+    "parts": [
+      "camera.apk.gz.part0",
+      "camera.apk.gz.part1",
+      "camera.apk.gz.part2"
+    ]
+  },
+  {
+    "package": "me.weishu.kernelsu",
+    "versionCode": 32716,
+    "size": 12424986,
+    "sha256": "798254823ffcc60c136a8f6ae903bfee6ff4ccd164fffc8ba1a3b749df0f607b",
+    "gzip": false,
+    "parts": [
+      "kernelsu.apk"
+    ]
+  }
+]

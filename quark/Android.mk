@@ -418,4 +418,7 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := .apk
 include $(BUILD_PREBUILT)
 
+# Install validated companion apps without replacing the legacy camera.
+include $(LOCAL_PATH)/bundled-apps/Android.mk
+
 endif
