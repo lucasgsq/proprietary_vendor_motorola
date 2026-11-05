@@ -374,3 +374,6 @@ PRODUCT_COPY_FILES += \
 #$(call inherit-product, vendor/motorola/quark/quark-vendor-ims-blobs.mk)
 # Shamu audiomonitor files current config doesn’t work for quark
 #$(call inherit-product, vendor/motorola/quark/quark-vendor-quark-vendor-audiomonitor-blobs.mk)
+
+# Local APK provisioning; legacy mcamera remains selected.
+PRODUCT_PACKAGES += QuarkBundledApps

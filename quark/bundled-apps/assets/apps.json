@@ -1,0 +1,14 @@
+[
+  {
+    "package": "com.motorola.camera2",
+    "versionCode": 470304150,
+    "size": 111832307,
+    "sha256": "1d52096ab9c1a92535fddba72a4695aad888eaa0eedc9c712cee03b66ccf26e6",
+    "gzip": true,
+    "parts": [
+      "camera.apk.gz.part0",
+      "camera.apk.gz.part1",
+      "camera.apk.gz.part2"
+    ]
+  }
+]
